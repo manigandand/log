@@ -1,5 +1,9 @@
 # log
 
+[![Build Status](https://img.shields.io/travis/manigandand/log?logo=travis&style=for-the-badge)](https://travis-ci.org/manigandand/log)
+[![Coverage Status](https://img.shields.io/codecov/c/gh/manigandand/log.svg?logo=codecov&style=for-the-badge)](https://codecov.io/gh/manigandand/log)
+[![](http://img.shields.io/badge/godoc-reference-5272B4.svg?style=for-the-badge)](https://godoc.org/github.com/manigandand/log)
+
 Yet another Go Logger
 
 log is simple extended version of standard 'log' package based on logLevel
