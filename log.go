@@ -47,6 +47,7 @@ func init() {
 }
 
 // Init initiates the logger
+// multiHandler supports papertrail, logdna, loggly
 func Init(lev logLevel, multiHandler io.Writer) {
 	infoHandler := ioutil.Discard
 	warningHandler := ioutil.Discard
