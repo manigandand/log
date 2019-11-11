@@ -1,5 +1,7 @@
 # log
 
+[![Go Report](https://goreportcard.com/badge/github.com/manigandand/log)](https://goreportcard.com/report/github.com/manigandand/log)
+[![License](https://img.shields.io/badge/license-MIT%20License-blue.svg)](https://github.com/manigandand/angago/blob/master/LICENSE)
 [![Build Status](https://img.shields.io/travis/manigandand/log?logo=travis&style=for-the-badge)](https://travis-ci.org/manigandand/log)
 [![Coverage Status](https://img.shields.io/codecov/c/gh/manigandand/log.svg?logo=codecov&style=for-the-badge)](https://codecov.io/gh/manigandand/log)
 [![](http://img.shields.io/badge/godoc-reference-5272B4.svg?style=for-the-badge)](https://godoc.org/github.com/manigandand/log)
@@ -102,3 +104,7 @@ exit status 1
 -   Context based logging.
 -   github.com/sirupsen/logrus
 -   github.com/uber-go/zap
+
+## Licence
+
+MIT
